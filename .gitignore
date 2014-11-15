@@ -1,0 +1,7 @@
+# Ignore coverage artifacts
+.coverage
+
+# Ignore go shell history
+.goshhst
+
+__pycache__
